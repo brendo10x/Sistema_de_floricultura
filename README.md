@@ -7,7 +7,7 @@ O sistema utiliza Java, Vraptor, Tomcat, JPA, Hibernate, Mysql, HTML5, CSS3, JQU
 
 Para utilizar do código é preciso fazer algumas alterações.
 
-- 1- Criar um banco de dados chamado "banco-trabalho-sistema" de preferência no Mysql.
+- 1- Criar um banco de dados chamado "banco-trabalho-sistema" de preferência no Mysql, usuário: root, senha:"".
 - 2- Importar as tabelas que estão no arquivo "banco-trabalho-sistema.sql" para o banco de dados criado.
 - 3- Modificar o arquivo "persistence.xml" e informar sobre o banco de dados criado.
 
