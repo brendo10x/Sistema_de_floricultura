@@ -1,7 +1,7 @@
 Sistema de floricultura
 =======================
 
-Sistema de floricultura web
+Trabalho do 4° Semestre 10/11/2013 - FJN - SI - Programação 3 e Banco de dados 2
 
 Para utilizar do código é preciso fazer algumas alterações.
 
