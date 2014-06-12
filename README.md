@@ -3,7 +3,8 @@ Sistema de floricultura
 
 Trabalho do 4° Semestre 10/11/2013 - FJN - SI - Programação 3 e Banco de dados 2.
 
-O sistema utiliza Java, Vraptor, Tomcat, JPA, Hibernate, Mysql, HTML5, CSS3, JQUERY e JS.
+O sistema utiliza Java EE, Vraptor, Tomcat, JPA, Hibernate, Mysql, HTML5, CSS3, JQUERY e JS.
+
 
 Para utilizar do código é preciso fazer algumas alterações.
 
