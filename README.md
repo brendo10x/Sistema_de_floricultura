@@ -1,9 +1,9 @@
 Sistema de floricultura
 =======================
 
-Trabalho do 4° Semestre 10/11/2013 - FJN - SI - Programação 3 e Banco de dados 2
+Trabalho do 4° Semestre 10/11/2013 - FJN - SI - Programação 3 e Banco de dados 2.
 
-O sistema utiliza Java, Vraptor, Tomcat, JPA, Hibernate, Mysql, HTML5, CSS3, JQUERY e JS
+O sistema utiliza Java, Vraptor, Tomcat, JPA, Hibernate, Mysql, HTML5, CSS3, JQUERY e JS.
 
 Para utilizar do código é preciso fazer algumas alterações.
 
@@ -22,12 +22,12 @@ Usuário de vendedor:
 -   Senha: admin 
 
 Funcionalidades do sistema
-- Autenticação de 2 tipos de nível de acesso, no caso o proprietário e vendedor
-- Cadastro, atualização, exclusão, busca, listagem e paginação de clientes
-- Cadastro, atualização, exclusão, busca, listagem e paginação de vendedores
-- Cadastro, atualização, exclusão, busca, listagem e paginação de fornecedores
-- Cadastro, atualização, exclusão, busca, listagem e paginação de vendas
-- Cadastro, atualização, exclusão, busca, listagem e paginação de produtos
+- Autenticação de 2 tipos de nível de acesso, no caso o proprietário e vendedor.
+- Cadastro, atualização, exclusão, busca, listagem e paginação de clientes.
+- Cadastro, atualização, exclusão, busca, listagem e paginação de vendedores.
+- Cadastro, atualização, exclusão, busca, listagem e paginação de fornecedores.
+- Cadastro, atualização, exclusão, busca, listagem e paginação de vendas.
+- Cadastro, atualização, exclusão, busca, listagem e paginação de produtos.
 - Listar todas as vendas realizadas em um dia ou mês.
 - Listar todas as vendas realizadas por vendedor em um dia ou no mês.
 - Listar todos os clientes de uma determinada cidade ou estado.
