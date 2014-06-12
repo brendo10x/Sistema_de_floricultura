@@ -13,11 +13,11 @@ Para utilizar do código é preciso fazer algumas alterações.
 
 Para entrar no sistema você precisa informar um usuário, as tabelas importadas tem 2 tipos de usuário.
 
-Usuário proprietário:
+Usuário do proprietário:
 - Usuário: brendo10x
 -   Senha: admin
  
-Usuário de vendedor:
+Usuário do vendedor:
 - Usuário: brendo7x
 -   Senha: admin 
 
