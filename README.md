@@ -26,9 +26,9 @@ Funcionalidades do sistema
 - Cadastro, atualização, exclusão, busca, listagem e paginação de fornecedores
 - Cadastro, atualização, exclusão, busca, listagem e paginação de vendas
 - Cadastro, atualização, exclusão, busca, listagem e paginação de produtos
--Relatórios
--- Listar todas as vendas realizadas em um dia ou mês.
--- Listar todas as vendas realizadas por vendedor em um dia ou no mês.
--- Listar todos os clientes de uma determinada cidade ou estado.
--- Listar os produtos mais vendidos no mês.
--- Listar a quantidade de cada produto em estoque.
+-Relatórios de:
+- Listar todas as vendas realizadas em um dia ou mês.
+- Listar todas as vendas realizadas por vendedor em um dia ou no mês.
+- Listar todos os clientes de uma determinada cidade ou estado.
+- Listar os produtos mais vendidos no mês.
+- Listar a quantidade de cada produto em estoque.
