@@ -1,4 +1,4 @@
-Sistema_de_floricultura
+Sistema de floricultura
 =======================
 
 Sistema de floricultura web
