@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/br/com/sis/floricultura/dao/ProdutoDao.java=UTF-8
+encoding//src/br/com/sis/floricultura/dao/ProdutosVendidosDao.java=UTF-8
+encoding//src/br/com/sis/floricultura/dao/ProprietarioDao.java=UTF-8
+encoding//src/br/com/sis/floricultura/dao/VendaDao.java=UTF-8
+encoding//src/br/com/sis/floricultura/service/UsuarioService.java=UTF-8
